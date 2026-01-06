@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Haseeb 👋
 
-<!--
-**hdaudy2/hdaudy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Developer with 4+ years of experience building and scaling
+production web applications using Node.js, Express/NestJS, Angular, and React.
 
-Here are some ideas to get you started:
+### Tech I work with
+- JavaScript / TypeScript
+- Node.js, Express, NestJS
+- Angular, React
+- SQL, MongoDB
+- Kafka, AWS, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About my work
+Most of my professional work is under NDA.  
+I use GitHub to share architecture samples, experiments, and learning projects.
+
+📫 Reach me on LinkedIn
